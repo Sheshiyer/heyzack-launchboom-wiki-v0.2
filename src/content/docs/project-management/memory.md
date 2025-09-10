@@ -182,7 +182,7 @@ Customizing LaunchBoom crowdfunding templates for HeyZack Smart Home Kit - posit
   - Navigation System: Hierarchical sidebar with breadcrumbs, "What's Next" recommendations
   - Search & Discovery: Full-text search, faceted filtering, tag system, related content
   - Mobile Optimization: Responsive design with touch navigation and 3G performance
-  - Performance Targets: Lighthouse >95, <2s search, <3s page load
+  - Performance Targets: Lighthouse >95, under 2s search, under 3s page load
 - **Code Changes**: 
   - Created ASTRO_WIKI_PRD.md (comprehensive 200+ line PRD)
   - Created todo.md with 100+ implementation tasks across 11 phases

@@ -7,9 +7,16 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'HeyZack LaunchBoom Templates',
+			logo: {
+				src: './logo.png',
+				replacesTitle: true,
+			},
 			description: 'Comprehensive template library for successful crowdfunding campaigns',
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/heyzack' }
+			],
+			customCss: [
+				'./src/styles/custom.css',
 			],
 			sidebar: [
 				{

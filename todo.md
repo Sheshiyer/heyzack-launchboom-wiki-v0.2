@@ -2,7 +2,14 @@
 # HeyZack LaunchBoom Templates - Astro Wiki Conversion
 
 ## In Progress
+- [ ] Fix 37 broken links identified by validation pipeline to enable successful builds
 - [ ] Continue creating remaining document pages from data-sources
+
+## Next Actions After Component Implementation
+- [ ] Update all category index pages with Card-based layouts
+- [ ] Implement template metadata display using structured components
+- [ ] Create visual workflow guides using enhanced Mermaid diagrams
+- [ ] Add progress tracking throughout campaign journey
 
 ## Completed (move to memory.md)
 - [DONE] ~~Create individual document pages from data-sources~~ (Foundation and Campaign Core sections completed)
@@ -34,34 +41,47 @@
 - [DONE] ~~Migrate 10_Reference_Materials/ content (3 files) with brand assets~~
 - [DONE] ~~Configure Starlight navigation and sidebar structure~~
 - [DONE] ~~Create category landing pages for each main section~~
-- [ ] Implement automated internal link detection and validation
-- [ ] Set up content validation pipeline to prevent broken links
+- [DONE] ~~Implement automated internal link detection and validation~~
+- [DONE] ~~Set up content validation pipeline to prevent broken links~~
 
-## Phase 3: Custom Styling & Branding (Week 3)
-- [ ] Extract HeyZack brand colors from existing brand guidelines
-- [ ] Create custom CSS variables for brand color palette
-- [ ] Implement HeyZack typography (Brinnan-Light, Brinnan-Bold, Avenir-Light)
-- [ ] Design custom Starlight theme with HeyZack branding
-- [ ] Create custom page templates for different content types
-- [ ] Implement responsive navigation with HeyZack styling
-- [ ] Design custom components for template metadata display
-- [ ] Create branded header and footer components
-- [ ] Implement custom sidebar styling with category icons
-- [ ] Add HeyZack logo and brand assets to site header
-- [ ] Create custom 404 page with brand consistency
-- [ ] Implement dark/light mode toggle with brand colors
+## Phase 3: Starlight Component Integration & Visual Enhancement (Week 3) - PRIORITY
+- [ ] Implement Starlight Card components for template overviews and quick navigation
+- [ ] Add Starlight Badge components for stage indicators and status labels
+- [ ] Create Starlight Aside components for tips, warnings, and important notes
+- [ ] Implement Starlight Icon components throughout navigation and content
+- [ ] Add Starlight LinkCard components for external resources and references
+- [ ] Create interactive Mermaid diagrams for campaign flows and user journeys
+- [ ] Implement Starlight Tabs components for multi-stage content organization
+- [ ] Add Starlight Code components with syntax highlighting for templates
+- [ ] Create custom CSS variables for HeyZack brand colors (#1D1D1B, #FFFFFF, #F8F9FA)
+- [ ] Implement HeyZack typography system (Brinnan-Bold, Brinnan-Light, Avenir-Light)
+- [ ] Design component-based landing page with Cards and LinkCards
+- [ ] Create visual hierarchy using Starlight's built-in components
+- [ ] Implement branded Callout components for key information
+- [ ] Add progress indicators using Badge components for campaign stages
+- [ ] Create template metadata display using structured Card layouts
+- [ ] Implement category overview pages with Card grids
+- [ ] Add visual workflow diagrams using Mermaid integration
+- [ ] Create interactive navigation using Starlight's component system
+- [ ] Implement responsive Card layouts for mobile optimization
+- [ ] Add branded header with HeyZack logo and custom styling
 
-## Phase 4: Navigation & Information Architecture (Week 3-4)
-- [ ] Configure Starlight sidebar with hierarchical navigation
-- [ ] Implement breadcrumb navigation for all pages
-- [ ] Create "What's Next" recommendation system
-- [ ] Add "Recently Updated" section to homepage
-- [ ] Implement quick access toolbar for bookmarked templates
-- [ ] Create workflow-based navigation guides
-- [ ] Add category overview pages with file listings
-- [ ] Implement template dependency visualization
-- [ ] Create sequential template linking (email sequences, etc.)
-- [ ] Add navigation analytics tracking
+## Phase 4: Enhanced Information Architecture & Interactive Components (Week 3-4)
+- [ ] Redesign homepage with Card-based quick start navigation
+- [ ] Implement role-based navigation using LinkCard components
+- [ ] Create campaign journey visualization with interactive Mermaid diagrams
+- [ ] Add stage-specific content organization using Tabs components
+- [ ] Implement template relationship mapping with visual connectors
+- [ ] Create "What's Next" recommendations using Card components
+- [ ] Add progress tracking using Badge and progress bar components
+- [ ] Implement category landing pages with Card grids and visual previews
+- [ ] Create workflow guides using Step components and visual indicators
+- [ ] Add template dependency visualization using interactive diagrams
+- [ ] Implement sequential linking with visual flow indicators
+- [ ] Create quick access dashboard using Card and LinkCard layouts
+- [ ] Add breadcrumb navigation with enhanced visual hierarchy
+- [ ] Implement contextual navigation using Aside components
+- [ ] Create template comparison views using structured layouts
 
 ## Phase 5: Search & Discovery Implementation (Week 4)
 - [ ] Configure Pagefind search integration with Astro
@@ -76,17 +96,19 @@
 - [ ] Add voice search capability for mobile users
 - [ ] Optimize search performance for large content volumes
 
-## Phase 6: Interactive Features & Enhancements (Week 5)
-- [ ] Add copy-to-clipboard functionality for template content
-- [ ] Implement template download functionality
-- [ ] Create template usage tracking and analytics
-- [ ] Add social sharing buttons for templates
-- [ ] Implement user feedback system for template quality
-- [ ] Create template version history tracking
-- [ ] Add print-friendly styling for templates
-- [ ] Implement template comparison functionality
-- [ ] Create template usage statistics dashboard
-- [ ] Add template rating and review system
+## Phase 6: Interactive Features & Component Enhancements (Week 5)
+- [ ] Implement copy-to-clipboard functionality using Starlight Code components
+- [ ] Add template download cards with action buttons and metadata
+- [ ] Create interactive template previews using expandable Card components
+- [ ] Implement template comparison using side-by-side Card layouts
+- [ ] Add social sharing using custom LinkCard components
+- [ ] Create feedback collection using structured form components
+- [ ] Implement template rating display using Badge and Icon components
+- [ ] Add usage statistics dashboard using Card-based metrics display
+- [ ] Create template version history using Timeline components
+- [ ] Implement print-friendly layouts maintaining component structure
+- [ ] Add template bookmarking using interactive Icon components
+- [ ] Create template recommendation engine using Card suggestions
 
 ## Phase 7: Mobile Optimization & Responsive Design (Week 5)
 - [ ] Implement mobile-first responsive design
