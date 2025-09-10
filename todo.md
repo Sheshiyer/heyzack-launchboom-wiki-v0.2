@@ -53,6 +53,18 @@
 - [ ] Create interactive Mermaid diagrams for campaign flows and user journeys
 - [ ] Implement Starlight Tabs components for multi-stage content organization
 - [ ] Add Starlight Code components with syntax highlighting for templates
+
+### Mermaid Diagram Enhancement Tasks (HIGH IMPACT)
+- [ ] **PRIORITY 1**: Replace campaign strategy text with mermaid flowcharts in three-stage-campaign-strategy.md (Pre-Launch → Launch → Post-Launch with decision nodes and feedback loops)
+- [ ] **PRIORITY 1**: Add sequence diagrams to email-marketing workflows showing automated trigger sequences and user interaction patterns across welcome/pre-launch/launch sequences
+- [ ] **PRIORITY 2**: Implement state diagrams for campaign lifecycle management showing transitions between Early Adopters → Hype Cycle → Validation stages with trigger conditions
+- [ ] **PRIORITY 2**: Include pie charts in competitor-research.md showing market share distribution and feature comparison percentages using mermaid pie syntax
+- [ ] **PRIORITY 3**: Add bar graphs to pricing-calculator.md comparing tier performance metrics and conversion rates using mermaid bar chart syntax
+- [ ] **PRIORITY 2**: Create entity relationship diagrams for template system architecture showing relationships between personas, campaigns, and content types
+- [ ] **PRIORITY 3**: Add Gantt charts to implementation-roadmap.md visualizing project timeline with dependencies and milestone markers using mermaid gantt syntax
+- [ ] **PRIORITY 3**: Implement class diagrams in README_Template_System.md showing object-oriented template inheritance and component relationships
+- [ ] **PRIORITY 2**: Use mind maps in buyer-persona-template.md to organize persona characteristics, pain points, and solution mapping with interactive nodes
+- [ ] **PRIORITY 1**: Add interactive charts in campaign-page-visual-hierarchy.md with filterable data views for A/B testing results and conversion metrics
 - [ ] Create custom CSS variables for HeyZack brand colors (#1D1D1B, #FFFFFF, #F8F9FA)
 - [ ] Implement HeyZack typography system (Brinnan-Bold, Brinnan-Light, Avenir-Light)
 - [ ] Design component-based landing page with Cards and LinkCards

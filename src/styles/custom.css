@@ -290,35 +290,40 @@ button:focus {
   border: 1px solid transparent;
 }
 
-/* Custom Badge Variants */
+/* Custom Badge Variants - Enhanced Contrast */
 .sl-badge[data-variant="tip"] {
-  background: rgba(29, 29, 27, 0.1);
+  background: rgba(29, 29, 27, 0.12);
   color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.2);
+  border-color: rgba(29, 29, 27, 0.25);
+  font-weight: 600;
 }
 
 .sl-badge[data-variant="note"] {
-  background: rgba(59, 130, 246, 0.1);
+  background: rgba(59, 130, 246, 0.15);
   color: #1e40af;
-  border-color: rgba(59, 130, 246, 0.2);
+  border-color: rgba(59, 130, 246, 0.3);
+  font-weight: 600;
 }
 
 .sl-badge[data-variant="caution"] {
-  background: rgba(245, 158, 11, 0.1);
+  background: rgba(245, 158, 11, 0.15);
   color: #92400e;
-  border-color: rgba(245, 158, 11, 0.2);
+  border-color: rgba(245, 158, 11, 0.3);
+  font-weight: 600;
 }
 
 .sl-badge[data-variant="danger"] {
-  background: rgba(239, 68, 68, 0.1);
-  color: #dc2626;
-  border-color: rgba(239, 68, 68, 0.2);
+  background: rgba(239, 68, 68, 0.15);
+  color: #b91c1c;
+  border-color: rgba(239, 68, 68, 0.3);
+  font-weight: 600;
 }
 
 .sl-badge[data-variant="success"] {
-  background: rgba(34, 197, 94, 0.1);
-  color: #16a34a;
-  border-color: rgba(34, 197, 94, 0.2);
+  background: rgba(34, 197, 94, 0.15);
+  color: #15803d;
+  border-color: rgba(34, 197, 94, 0.3);
+  font-weight: 600;
 }
 
 /* Dark Mode Badge Styling */
@@ -326,6 +331,30 @@ button:focus {
   background: rgba(248, 249, 250, 0.1);
   color: var(--heyzack-light-gray);
   border-color: rgba(248, 249, 250, 0.2);
+}
+
+[data-theme='dark'] .sl-badge[data-variant="note"] {
+  background: rgba(59, 130, 246, 0.2);
+  color: #93c5fd;
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+[data-theme='dark'] .sl-badge[data-variant="caution"] {
+  background: rgba(245, 158, 11, 0.2);
+  color: #fbbf24;
+  border-color: rgba(245, 158, 11, 0.3);
+}
+
+[data-theme='dark'] .sl-badge[data-variant="danger"] {
+  background: rgba(239, 68, 68, 0.2);
+  color: #f87171;
+  border-color: rgba(239, 68, 68, 0.3);
+}
+
+[data-theme='dark'] .sl-badge[data-variant="success"] {
+  background: rgba(34, 197, 94, 0.2);
+  color: #4ade80;
+  border-color: rgba(34, 197, 94, 0.3);
 }
 
 /* Link Card Enhancements */
