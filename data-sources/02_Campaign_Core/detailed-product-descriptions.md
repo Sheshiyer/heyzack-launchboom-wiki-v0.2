@@ -30,24 +30,24 @@
 
 ## Individual Product Experiences
 
-### 1. Battery Video Doorbell (IPB192)
+### 1. Video Door Bell (SC162-WCD3)
 
 **Experience: "Never Miss a Moment, Always Feel Secure"**
 
 **What This Means for Your Life:**
-Imagine never again rushing to the door wondering who's there, or missing important deliveries while you're away. This intelligent doorbell becomes your home's welcoming ambassador and security guardian, giving you complete control over your entrance experience.
+Imagine never again rushing to the door wondering who's there, or missing important deliveries while you're away. This intelligent 2K doorbell becomes your home's welcoming ambassador and security guardian, with AI-powered detection that distinguishes between humans, packages, and general motion.
 
 **Daily Life Transformations:**
 
-- **Morning Confidence**: Leave for work knowing you'll see and speak to anyone who visits
-- **Package Peace**: Receive deliveries with confidence, even when traveling
-- **Family Safety**: Your children can see who's at the door before opening it
-- **Social Grace**: Greet guests warmly even when you're upstairs or in the backyard
-- **Security Assurance**: Sleep soundly knowing your entrance is monitored 24/7
+- **Morning Confidence**: Leave for work knowing AI will alert you to human visitors and package deliveries
+- **Package Intelligence**: Receive smart notifications specifically for package deliveries
+- **Family Safety**: Your children can see crystal-clear 2K video of who's at the door
+- **Social Grace**: Greet guests warmly with two-way audio even when you're upstairs or traveling
+- **Security Assurance**: Sleep soundly with AI-powered human detection and cloud storage
 
 **Emotional Benefits:**
-- **Control**: You decide who enters your family's space
-- **Connection**: Stay connected to your home from anywhere
+- **Control**: You decide who enters your family's space with intelligent detection
+- **Connection**: Stay connected to your home from anywhere with 2K clarity
 - **Confidence**: Clear video means no uncertainty about visitors
 - **Convenience**: No more interrupted dinners or missed deliveries
 
@@ -97,89 +97,88 @@ Your entrance becomes a sophisticated gateway that reflects your family's values
 
 ### 3. Battery Solar Camera (IPC197)
 
-**Experience: "Unlimited Vigilance, Zero Compromise"**
+**Experience: "Complete Outdoor Security Freedom"**
 
 **What This Means for Your Life:**
-Extend your peace of mind to every corner of your property without the limitations of power outlets or complex wiring. This solar-powered guardian watches over your garden, driveway, or any area that matters to your family's security.
+Monitor your property's perimeter with complete wireless freedom. This solar-powered camera provides continuous surveillance without the constraints of power cables or frequent battery changes, giving you peace of mind about your outdoor spaces.
 
 **Daily Life Transformations:**
 
-- **Property Confidence**: Monitor your entire property, not just the main entrance
-- **Sustainable Security**: Solar power means continuous protection without energy costs
-- **Flexible Protection**: Easily relocate as your security needs change
-- **Remote Awareness**: Check on your property from vacation or business trips
-- **Deterrent Presence**: Visible security that prevents problems before they start
+- **Perimeter Protection**: Monitor driveways, gardens, and entry points with crystal-clear video
+- **Solar Independence**: Never worry about battery life with continuous solar charging
+- **Weather Resilience**: IP65 protection ensures reliable operation in all weather conditions
+- **Instant Alerts**: Real-time notifications when motion is detected in monitored areas
+- **Easy Installation**: Place anywhere with optimal solar exposure, no wiring required
 
 **Emotional Benefits:**
-- **Completeness**: Total property coverage for comprehensive peace of mind
-- **Freedom**: Wireless operation means security anywhere you need it
-- **Sustainability**: Solar power aligns with environmental values
-- **Adaptability**: Easy repositioning as your family's needs evolve
+- **Security**: Complete outdoor monitoring without blind spots
+- **Independence**: Solar power eliminates maintenance and power concerns
+- **Flexibility**: Install anywhere with optimal viewing angles
+- **Reliability**: Weather-resistant design for year-round protection
 
 **Technical Excellence Supporting Your Experience:**
-- Solar-powered operation for unlimited runtime
-- 2K/1080p live streaming for clear identification
-- PIR motion detection with instant notifications
-- Two-way audio for remote communication
-- IR night vision for 24/7 monitoring
-- Magnetic mounting for easy installation
-- IP65 weatherproof for all-weather reliability
-- Built-in siren alarm for deterrent capability
+- Solar panel with battery backup for continuous operation
+- IP65 weatherproof rating for outdoor durability
+- Wi-Fi connectivity for remote monitoring
+- Motion detection with smartphone alerts
+- High-resolution video recording
+- Night vision capability
+- Easy mounting system for flexible placement
 
 ---
 
-### 4. Smart Door & Window Sensor
+### 4. Smart Door Windows Sensor (GS-ZD001-Wifi)
 
-**Experience: "Invisible Intelligence, Visible Peace of Mind"**
+**Experience: "Know Every Entry Point Instantly"**
 
 **What This Means for Your Life:**
-Create an intelligent security perimeter that knows when every door and window opens, automatically adjusting your home's response. These nearly invisible sensors become your home's nervous system, aware of every entry point.
+Transform every door and window into an intelligent security checkpoint that instantly alerts you to any opening. This creates a comprehensive security perimeter that gives you complete awareness of your home's access points.
 
 **Daily Life Transformations:**
 
-- **Automatic Responses**: Lights turn on when you enter, climate adjusts when windows open
-- **Security Awareness**: Instant knowledge if any entry point is accessed
-- **Energy Intelligence**: Heating/cooling automatically adjusts when windows open
-- **Family Tracking**: Know when family members arrive home safely
-- **Vacation Monitoring**: Complete awareness of your home while traveling
+- **Entry Awareness**: Instant notifications when any door or window opens
+- **Family Safety**: Know when children arrive home or leave
+- **Security Monitoring**: 24/7 monitoring of all entry points
+- **Energy Efficiency**: Alerts when doors/windows are left open affecting climate control
+- **Peace of Mind**: Complete awareness of home access even when away
 
 **Emotional Benefits:**
-- **Awareness**: Always know the status of your home's security perimeter
-- **Automation**: Your home responds intelligently to your family's movements
-- **Efficiency**: Energy systems that adapt automatically to save money
-- **Discretion**: Security that's effective but invisible to daily life
+- **Security**: Comprehensive monitoring of all entry points
+- **Awareness**: Always know the status of your home's openings
+- **Control**: Immediate alerts allow quick response to unexpected access
+- **Efficiency**: Prevent energy loss from forgotten open doors/windows
 
 **Technical Excellence Supporting Your Experience:**
-- Ultra-compact design that blends with any décor
-- Tamper alert system for security protection
-- Smart scene integration for automated responses
-- Instant smartphone notifications
-- Long battery life with low-power design
-- Easy adhesive installation, no tools required
-- Wireless operation with full smart home integration
+- Wi-Fi connectivity for instant smartphone alerts
+- Ultra-low power design with long battery life
+- Compact design suitable for all door and window types
+- Easy installation with adhesive mounting
+- Reliable magnetic sensor technology
+- Integration with smart home automation
+- Tamper detection for security
 
 ---
 
-### 5. PIR Motion Sensor (MD100-W)
+### 6. Smart Motion Sensor (GS-ZP001-Wifi)
 
 **Experience: "Intelligent Presence That Enhances Every Room"**
 
 **What This Means for Your Life:**
-Transform every room into an intelligent space that responds to your presence. This sophisticated sensor doesn't just detect movement—it understands human presence and triggers thoughtful responses that enhance comfort and security.
+Transform every room into an intelligent space that responds to your presence. This WiFi-enabled sensor provides instant detection with 8-meter range and connects directly to your network for immediate smart home responses.
 
 **Daily Life Transformations:**
 
-- **Welcoming Spaces**: Rooms that light up and adjust as you enter
-- **Energy Efficiency**: Lights and climate that turn off when rooms are empty
-- **Security Awareness**: Know when someone enters any room in your home
-- **Comfort Automation**: Temperature and lighting that adjust to occupancy
-- **Safety Features**: Automatic lighting for safe nighttime navigation
+- **Welcoming Spaces**: Rooms that light up instantly as you enter with <1 second response
+- **Energy Efficiency**: Lights and climate that turn off when rooms are empty for 18+ months on batteries
+- **Security Awareness**: Instant WiFi alerts when someone enters any room in your home
+- **Comfort Automation**: Temperature and lighting that adjust to occupancy with adjustable sensitivity
+- **Safety Features**: Automatic lighting for safe nighttime navigation with wide 90° coverage
 
 **Emotional Benefits:**
-- **Responsiveness**: Your home anticipates and responds to your presence
-- **Efficiency**: Automatic energy savings without sacrificing comfort
-- **Safety**: Well-lit pathways and spaces when you need them
-- **Intelligence**: Sophisticated detection that works reliably
+- **Responsiveness**: Your home anticipates and responds instantly to your presence
+- **Efficiency**: Ultra-low power design with 18+ month battery life
+- **Safety**: Wide-angle detection ensures no blind spots
+- **Intelligence**: Advanced PIR technology that works reliably in all conditions
 
 **Technical Excellence Supporting Your Experience:**
 - 6-meter detection range for comprehensive room coverage
@@ -193,195 +192,134 @@ Transform every room into an intelligent space that responds to your presence. T
 
 ---
 
-### 6. Smart Plug (SP100-W)
+### 7. Smart PD Power Strip (WPS20-EU)
 
-**Experience: "Transform Any Device Into Intelligent Technology"**
+**Experience: "Every Device Becomes Smart and Powerful"**
 
 **What This Means for Your Life:**
-Instantly upgrade any electrical device in your home to smart, voice-controlled operation. These intelligent plugs become the bridge between your existing appliances and your home's AI companion.
+Transform your entire workspace or entertainment center into a smart ecosystem with individual outlet control, USB-C PD charging, and energy monitoring. This isn't just about remote control—it's about creating an intelligent power hub that manages all your devices efficiently.
 
 **Daily Life Transformations:**
 
-- **Voice Control Everything**: "Turn on the coffee maker" or "Turn off the fan"
-- **Automatic Schedules**: Lamps that turn on at sunset, heaters that warm rooms before you arrive
-- **Energy Monitoring**: See exactly how much energy each device uses
-- **Remote Control**: Turn devices on/off from anywhere in the world
-- **Safety Features**: Automatically turn off devices when you leave home
+- **Workspace Intelligence**: Individual control of monitor, printer, speakers while keeping essentials always on
+- **Fast Charging Hub**: 20W USB-C PD for laptops and devices alongside traditional outlets
+- **Energy Awareness**: Monitor power consumption of each connected device
+- **Safety Assurance**: Turn off specific outlets remotely, surge protection for all devices
+- **Schedule Harmony**: Different schedules for each outlet based on device usage patterns
 
 **Emotional Benefits:**
-- **Convenience**: Control any device with your voice or smartphone
-- **Efficiency**: Automatic scheduling saves energy and money
-- **Safety**: Never worry about leaving devices on when you travel
-- **Modernization**: Bring older appliances into your smart home ecosystem
+- **Control**: Individual command over every connected device
+- **Efficiency**: Optimized charging and power usage without cable clutter
+- **Safety**: Advanced surge protection and remote shutoff capability
+- **Productivity**: Streamlined workspace with intelligent power management
 
 **Technical Excellence Supporting Your Experience:**
-- Wi-Fi connectivity for smartphone and voice control
-- Energy monitoring for usage awareness
+- Individual Wi-Fi control for each outlet
+- 20W USB-C PD fast charging port
+- Energy monitoring for each outlet
+- Surge protection for all connected devices
 - Schedule and timer functions for automation
 - Remote control from anywhere
-- Compact design that doesn't block adjacent outlets
+- Compact design with multiple outlet configuration
 - Safety certifications for reliable operation
-- Easy setup with smartphone app
 
 ---
 
-### 7. Smart Light Switch
+### 8. WIFI EU Standard Outlet (F1S302-EU)
 
-**Experience: "Lighting That Responds to Life's Rhythms"**
+**Experience: "Smart Control in Every Room"**
 
 **What This Means for Your Life:**
-Replace ordinary light switches with intelligent controls that understand your family's lighting needs throughout the day. Create the perfect ambiance for every moment, from energizing mornings to relaxing evenings.
+Replace ordinary outlets with intelligent controls that give you remote access and scheduling for any plugged-in device. Your appliances become part of your smart home ecosystem, responding to your schedule and presence.
 
 **Daily Life Transformations:**
 
-- **Perfect Ambiance**: Lighting that automatically adjusts for activities and time of day
-- **Voice Control**: "Dim the lights for movie time" or "Brighten the kitchen"
-- **Energy Savings**: Lights that turn off automatically when rooms are empty
-- **Security Lighting**: Simulate occupancy when you're away
-- **Gentle Wake-ups**: Gradually brightening lights that ease you into the morning
+- **Appliance Intelligence**: Any device becomes smart with remote control and scheduling
+- **Energy Optimization**: Monitor and control power usage of individual appliances
+- **Safety Features**: Remote shutoff capability for forgotten devices
+- **Convenience Control**: Voice and app control for lamps, heaters, fans from anywhere
+- **Schedule Automation**: Devices turn on/off based on your daily routines
 
 **Emotional Benefits:**
-- **Comfort**: Perfect lighting for every activity and mood
-- **Convenience**: Control all lights with voice commands or smartphone
-- **Efficiency**: Automatic energy savings without sacrificing ambiance
-- **Security**: Intelligent lighting patterns that enhance home security
+- **Control**: Transform any appliance into a smart device
+- **Efficiency**: Intelligent power management without device replacement
+- **Safety**: Remote monitoring and control for peace of mind
+- **Simplicity**: Easy retrofit solution that works with existing devices
 
 **Technical Excellence Supporting Your Experience:**
 - Wi-Fi connectivity for smart control
-- Dimming capability for ambiance control
+- EU standard outlet compatibility
 - Schedule and automation features
 - Voice control compatibility
 - Energy monitoring and efficiency
-- Easy installation in standard switch boxes
+- Easy installation in standard outlet boxes
 - Smartphone app control
 
 ---
 
-### 8. Smart Thermostat
+### 9. Smart Pet Feeder (F17-C)
 
-**Experience: "Perfect Climate That Anticipates Your Comfort"**
+**Experience: "Caring for Your Pet, Even When Away"**
 
 **What This Means for Your Life:**
-Experience the luxury of perfect temperature control that learns your preferences and adjusts automatically. Your home's climate becomes an invisible comfort system that saves energy while maintaining ideal conditions.
+Ensure your beloved pet maintains healthy eating habits with precise portion control and scheduled feeding, whether you're home or traveling. This intelligent feeder becomes your pet's reliable caretaker, maintaining their routine and health.
 
 **Daily Life Transformations:**
 
-- **Automatic Comfort**: Temperature that adjusts based on occupancy and time of day
-- **Energy Savings**: Intelligent scheduling that reduces utility bills
-- **Remote Control**: Adjust temperature from anywhere, arrive to perfect comfort
-- **Learning Intelligence**: The system learns your preferences and adjusts automatically
-- **Seasonal Adaptation**: Automatic adjustments for changing weather patterns
+- **Consistent Care**: Maintain your pet's feeding schedule even during long work days
+- **Portion Control**: Precise 5g increments help maintain your pet's healthy weight
+- **Travel Peace**: Feed your pet remotely when traveling or delayed
+- **Health Monitoring**: Track feeding patterns and amounts for veterinary care
+- **Routine Stability**: Consistent meal times reduce pet anxiety and behavioral issues
 
 **Emotional Benefits:**
-- **Comfort**: Always the perfect temperature without manual adjustment
-- **Savings**: Lower energy bills through intelligent automation
-- **Convenience**: Set and forget temperature control
-- **Intelligence**: A system that learns and adapts to your preferences
+- **Responsibility**: Never worry about missed meals or overfeeding
+- **Connection**: Care for your pet even when physically away
+- **Health**: Maintain optimal nutrition with precise portion control
+- **Freedom**: Travel with confidence knowing your pet is fed properly
 
 **Technical Excellence Supporting Your Experience:**
-- Learning algorithms that adapt to your preferences
-- Wi-Fi connectivity for remote control
-- Energy usage monitoring and reporting
-- Geofencing for automatic adjustment when you leave/return
-- Voice control integration
-- Professional-grade temperature sensors
-- Easy installation and setup
+- 4L capacity for multiple days of food storage
+- Precise 5g portion increments (5g-200g per meal)
+- Wi-Fi connectivity for remote control and monitoring
+- Smartphone app for scheduling and manual feeding
+- Secure food storage to maintain freshness
+- Easy cleaning and maintenance
+- Reliable dispensing mechanism
+- Battery backup for power outages
 
 ---
 
-### 9. Smart Lock
+### 10. Smart Pet Feeder (F17-C)
 
-**Experience: "Keyless Convenience With Uncompromising Security"**
+**Experience: "Caring for Your Pet, Even When Away"**
 
 **What This Means for Your Life:**
-Eliminate the anxiety of lost keys and the inconvenience of traditional locks. Your door becomes an intelligent gateway that recognizes family members and provides secure, convenient access.
+Ensure your beloved pet maintains healthy eating habits with precise portion control and scheduled feeding, whether you're home or traveling. This intelligent feeder becomes your pet's reliable caretaker, maintaining their routine and health.
 
 **Daily Life Transformations:**
 
-- **Keyless Freedom**: Never worry about lost keys or being locked out
-- **Family Access**: Each family member has their own secure entry method
-- **Guest Management**: Provide temporary access codes for visitors or service providers
-- **Security Monitoring**: Know exactly when your door is locked/unlocked and by whom
-- **Automatic Locking**: Door locks automatically for security and peace of mind
+- **Consistent Care**: Maintain your pet's feeding schedule even during long work days
+- **Portion Control**: Precise 5g increments help maintain your pet's healthy weight
+- **Travel Peace**: Feed your pet remotely when traveling or delayed
+- **Health Monitoring**: Track feeding patterns and amounts for veterinary care
+- **Routine Stability**: Consistent meal times reduce pet anxiety and behavioral issues
 
 **Emotional Benefits:**
-- **Security**: Advanced encryption and multiple access methods
-- **Convenience**: Unlock with smartphone, code, or voice command
-- **Control**: Manage access for family and guests remotely
-- **Peace of Mind**: Always know your door is secure
+- **Responsibility**: Never worry about missed meals or overfeeding
+- **Connection**: Care for your pet even when physically away
+- **Health**: Maintain optimal nutrition with precise portion control
+- **Freedom**: Travel with confidence knowing your pet is fed properly
 
 **Technical Excellence Supporting Your Experience:**
-- Multiple unlock methods: smartphone, keypad, voice, traditional key backup
-- Advanced encryption for security
-- Battery backup for reliable operation
-- Automatic locking features
-- Access logs and monitoring
-- Easy installation on standard doors
-- Weather-resistant design
-
----
-
-### 10. Smart Smoke Detector
-
-**Experience: "Intelligent Protection That Saves Lives and Property"**
-
-**What This Means for Your Life:**
-Advanced fire detection that distinguishes between real emergencies and cooking smoke, providing intelligent alerts that protect your family while minimizing false alarms.
-
-**Daily Life Transformations:**
-
-- **Intelligent Alerts**: Differentiate between cooking smoke and real fire danger
-- **Remote Monitoring**: Receive fire alerts even when away from home
-- **Family Safety**: Voice alerts that clearly communicate the type of danger
-- **Easy Maintenance**: Smartphone notifications for battery replacement
-- **Integration**: Coordinates with other smart devices for comprehensive response
-
-**Emotional Benefits:**
-- **Safety**: Advanced detection technology protects your family
-- **Intelligence**: Smart algorithms reduce false alarms
-- **Awareness**: Always know the safety status of your home
-- **Reliability**: Professional-grade detection you can trust
-
-**Technical Excellence Supporting Your Experience:**
-- Dual sensor technology (photoelectric and ionization)
-- Wi-Fi connectivity for smartphone alerts
-- Voice alerts with clear emergency communication
-- Battery backup for continuous operation
-- Self-testing and maintenance alerts
-- Integration with smart home security systems
-- Easy installation and setup
-
----
-
-### 11. Smart Water Leak Detector
-
-**Experience: "Invisible Protection Against Water Damage"**
-
-**What This Means for Your Life:**
-Protect your home's foundation, belongings, and peace of mind with intelligent water detection that catches leaks before they become disasters. This small device provides enormous protection value.
-
-**Daily Life Transformations:**
-
-- **Early Warning**: Detect leaks immediately, before damage occurs
-- **Property Protection**: Prevent thousands in water damage repair costs
-- **Remote Alerts**: Know about water issues even when traveling
-- **Insurance Benefits**: Proactive protection may reduce insurance premiums
-- **Peace of Mind**: Sleep soundly knowing your home is protected
-
-**Emotional Benefits:**
-- **Protection**: Safeguard your home and belongings from water damage
-- **Awareness**: Immediate notification of any water issues
-- **Prevention**: Catch problems before they become expensive disasters
-- **Security**: Comprehensive home protection beyond just security
-
-**Technical Excellence Supporting Your Experience:**
-- Sensitive water detection sensors
-- Wi-Fi connectivity for instant smartphone alerts
-- Long battery life with low-power design
-- Compact, discreet placement options
-- Temperature and humidity monitoring
-- Easy installation without tools
-- Integration with smart home automation
+- 4L capacity for multiple days of food storage
+- Precise 5g portion increments (5g-200g per meal)
+- Wi-Fi connectivity for remote control and monitoring
+- Smartphone app for scheduling and manual feeding
+- Secure food storage to maintain freshness
+- Easy cleaning and maintenance
+- Reliable dispensing mechanism
+- Battery backup for power outages
 
 ---
 
@@ -409,7 +347,7 @@ Geofencing detects your return → Lights turn on, temperature adjusts, security
 
 ## Investment in Your Family's Future
 
-**Complete Kit Value: $399-$999**
+**Complete Kit Value: $299-$799**
 
 **What You're Really Buying:**
 - Peace of mind for your family's safety

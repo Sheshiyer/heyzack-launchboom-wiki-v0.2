@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://heyzack-launchboom-templates.vercel.app',
 	integrations: [
 		starlight({
 			title: 'HeyZack LaunchBoom Templates',

@@ -118,13 +118,13 @@ After that, it’s pure savings, month after month. You get world-class security
 | **Human Presence Sensor Pro** | mm-wave radar for precise occupancy & posture detection            |
 | **Universal Remote Control**  | Blasts IR/BT/RF, giving smart control to any "dumb" TV, AC, or fan |
 | **Smart Power Strip**         | Independently switch & monitor 4 outlets + USB-C fast charge       |
-| **Smart Plugs ×2**           | Tiny form-factor, energy metering, 15 A surge protection           |
+| **Smart PD Power Strip**     | 4 EU outlets + 4 USB ports, WiFi control, energy monitoring       |
 | **Smart Pet Feeder AI**       | Schedules meals, recognises pets, prevents over-feeding            |
 
 ### 🤖 Unified Intelligence – Why the Whole Kit > Sum of Parts
 
 1. **Intruder Deterrent Loop**Presence Sensor spots motion → Security Cam pans & records → Doorbell Cam flashes light ring → Power Strip flips on a lamp + radio to simulate occupancy → Instant alert to your phone.
-2. **Energy Guardian**Presence Sensor reports empty room → Universal Remote powers down AC → Smart Plugs kill vampire devices → Power Strip logs savings in the app.
+2. **Energy Guardian** Smart Motion Sensor reports empty room → Smart PD Power Strip powers down devices → WIFI EU Outlet manages individual appliances → Energy savings logged automatically.
 3. **Pet-Care Patrol**Pet Feeder detects your cat near bowl → Security Cam starts recording a cute clip → Heyzack logs feeding time and tells the Plug to warm the pet pad.
 4. **Movie Night Macro**
    Voice command "Heyzack, movie time" → Universal Remote dims TV backlight & fires up Netflix → Power Strip turns on soundbar → Plugs turn off bright lamps → Presence Sensor holds the scene until last viewer leaves.
@@ -210,7 +210,7 @@ Tiny guardian angels that whisper when anything opens so surprises never slip in
 
 ---
 
-### 👁️ PIR Motion Sensor (MD100-W)
+### 👁️ Smart Motion Sensor (GS-ZP001-Wifi)
 
 [Motion](image)
 
@@ -300,9 +300,9 @@ Turn an outlet into a genius. Measure, control, and fast-charge—per socket.
 
 ---
 
-### 🧲 Smart Plug (EU/UK)
+### 🔌 Smart PD Power Strip (WPS20-EU)
 
-[Smart Plug](image)
+[Smart PD Power Strip](image)
 
 The simplest upgrade: plug in, bingo—smart control & live energy stats.
 
@@ -345,7 +345,7 @@ Because fur-kids deserve a butler too—auto meals & flowing fresh water.
 ### 💰 Energy-Savings (3)
 
 1. **Sun-Chill Mode** – Solar Cam reports peak sunlight → AC Controller eases cooling → Power Strip tracks drop in watts.
-2. **Ghost-Power Buster** – Motion Sensor spots empty house at midnight → Smart Plugs + Strip shut down standby devices.
+2. **Ghost-Power Buster** – Smart Motion Sensor spots empty house at midnight → Smart PD Power Strip + WIFI EU Outlets shut down standby devices.
 3. **Morning Warm-Up** – PIR senses early riser → AC Controller pre-heats room while Power Strip powers coffee machine.
 
 ### 🛡️ Security (3)
@@ -375,8 +375,8 @@ Choose your Heyzack experience. All tiers include the Heyzack Hub and access to 
 * 1x Heyzack Hub
 * 1x 2K Video Doorbell
 * 2x Door & Window Sensor
-* 1x Smart Plug
-* ***Early Bird Perk:*** The first 200 backers get an extra Smart Plug for free!
+* 1x Smart PD Power Strip (WPS20-EU)
+* ***Early Bird Perk:*** The first 200 backers get an extra WIFI EU Standard Outlet for free!
 
 ---
 
@@ -384,7 +384,7 @@ Choose your Heyzack experience. All tiers include the Heyzack Hub and access to 
 
 * Everything in **The Essentials Kit**
 * 1x Battery Solar Camera
-* 1x PIR Motion Sensor
+* 1x Smart Motion Sensor (GS-ZP001-Wifi)
 * 1x Smart Power Strip
 * ***Early Bird Perk:*** The first 150 backers get an extra Battery Solar Camera!
 

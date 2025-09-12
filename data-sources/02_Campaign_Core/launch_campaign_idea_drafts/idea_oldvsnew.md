@@ -194,7 +194,7 @@ Format: Slide-based 30-60s videos using product images & stock visuals
 * **CTA:** "Follow @HeyzackSmart — smart savings, smarter living."
 * **CTA:** "visit @Heyzack.ai— and plug into smart savings."
 
-## 7. Smart Plugs
+## 7. Smart PD Power Strip
 
 Theme: Old vs New – Emotional Scroll-Stoppers
 
@@ -202,25 +202,25 @@ Platform: Instagram Reels / TikTok / YouTube Shorts
 
 Format: Slide-based 30-60s videos using product images & stock visuals
 
-**Slide 1: "Still worrying halfway to work if you left it on?"**
+**Slide 1: "Did I leave the coffee maker on?"**
 
-* **Visual:** A quick montage of common household items (toaster, iron, hair straightener, makeup mirror) shown plugged in and seemingly "on." A person commuting (e.g., in a car or bus) suddenly has a worried expression, realizing they might have forgotten to turn something off.
+* **Visual:** A person at work, looking worried and checking their phone. The thought bubble shows multiple devices left on at home - coffee maker, TV, chargers - with power symbols glowing ominously.
 
-**Slide 2: "One tap from panic to peace."**
+**Slide 2: "With HeyZack, control everything from anywhere."**
 
-* **Visual:** The worried person from Slide 1 pulls out their phone. With a single, decisive tap on the Heyzack app (showing the Smart Plug interface), the "on" icon for the device immediately switches to "off," and the person's face visibly relaxes into relief.
+* **Visual:** The worried person from Slide 1 pulls out their phone. With a single tap on the HeyZack app (showing the Smart PD Power Strip interface), multiple device icons switch to "off," and the person's face visibly relaxes into relief.
 
-**Slide 3: "Heyzack Smart Plugs = remote control + scheduling."**
+**Slide 3: "HeyZack Smart PD Power Strip = 4 outlets + 4 USB ports, all smart."**
 
-* **Visual:** The Heyzack Smart Plug (product image) shown plugged into an outlet. Then, an animation on the Heyzack app setting a timer for a coffee maker to turn on automatically in the morning, demonstrating both remote control and scheduling capabilities.
+* **Visual:** The HeyZack Smart PD Power Strip (product image) shown with multiple devices plugged in. Then, an animation on the HeyZack app showing individual outlet control and USB port management, demonstrating complete power control.
 
-**Slide 4: "No more guesswork. Just power you trust."**
+**Slide 4: "See exactly what each outlet is using."**
 
-* **Visual:** The Heyzack app displaying clear usage statistics for a device connected to a smart plug, along with an ON/OFF log, providing full transparency and reassurance about power usage.
+* **Visual:** The HeyZack app displaying clear usage statistics for each outlet on the power strip, with real-time energy monitoring and individual ON/OFF logs, providing complete transparency.
 
-**Slide 5: "Schedule it. Track it. Save from it."**
+**Slide 5: "Find your biggest energy wasters."**
 
-* **Visual:** The Heyzack app analytics interface showing which device, connected to a smart plug, uses the most energy over a period, highlighting potential savings. This could be a bar graph or a pie chart.
+* **Visual:** The HeyZack app analytics interface showing which outlet uses the most energy over time, with suggestions for optimization and potential savings highlighted in an easy-to-read dashboard.
 
 **Slide 6: "Because control should go with you."**
 
@@ -268,7 +268,7 @@ Format: Slide-based 30-60s videos using product images & stock visuals
 * **Visual:** A heartwarming scene of a pet owner feeling connected and caring for their pet, even when away, emphasizing the emotional bond.
 * **CTA:** "visit @Heyzack.ai — they deserve it."
 
-## 9. Smart Lock
+## 9. Video Door Bell (SC162-WCD3)
 
 Theme: Old vs New – Emotional Scroll-Stoppers
 
@@ -276,23 +276,23 @@ Platform: Instagram Reels / TikTok / YouTube Shorts
 
 Format: Slide-based 30-60s videos using product images & stock visuals
 
-**Slide 1: "Still hiding keys under the mat?"**
+**Slide 1: "Who's at the door?"**
 
-* **Visual:** A close-up shot of a key being pulled out from under a doormat or a fake rock. Then, a suspicious pair of eyes or hands reaching for it, implying a security risk.
+* **Visual:** A person inside their home hearing the doorbell ring, looking uncertain and approaching the door cautiously. Through the peephole view, they can only see a shadowy figure.
 
-**Slide 2: "One mistake. Zero security."**
+**Slide 2: "HeyZack shows you everything, instantly."**
 
-* **Visual:** An Airbnb guest or a family member looking distressed, trying to open a locked door after forgetting or losing their key. The owner looks stressed, receiving a frantic call or message.
+* **Visual:** The same person from Slide 1, but now confidently checking their phone. The HeyZack app displays a crystal-clear 2K video feed showing exactly who's at the door - a delivery person with a package.
 
-**Slide 3: "Heyzack Smart Lock = no keys, no problems."**
+**Slide 3: "HeyZack Video Door Bell = see, speak, secure."**
 
-* **Visual:** The sleek Heyzack Smart Lock (product image) installed on a door. Someone effortlessly unlocks it using their phone (app interface visible) or by placing their finger on the fingerprint scanner, showing instant access.
+* **Visual:** The sleek HeyZack Video Door Bell (product image) installed beside a front door. Split screen showing the visitor outside and the homeowner inside having a two-way conversation through the app.
 
-**Slide 4: "Control who enters. When. How."**
+**Slide 4: "Never miss a delivery again."**
 
-* **Visual:** The Heyzack app interface displaying a guest pass being created with a specific time limit (e.g., "Guest Access: June 23, 2025, 3 PM - 5 PM"). Then, a notification showing successful entry/exit.
+* **Visual:** The HeyZack app showing motion alerts and recorded clips: "Package delivered at 2:15 PM," "Visitor at 4:22 PM," with thumbnail previews, giving complete visibility of all door activity.
 
-**Slide 5: "Because your door deserves an upgrade."**
+**Slide 5: "Your front door, smarter and safer."**
 
-* **Visual:** A modern, secure-looking front door with the Heyzack Smart Lock prominently displayed, giving a sense of advanced security and peace of mind.
-* **CTA:** "visit @Heyzack.ai — keyless is fearless."
+* **Visual:** A modern front entrance with the HeyZack Video Door Bell prominently displayed, showing night vision capability and weather resistance, giving a sense of 24/7 security and convenience.
+* **CTA:** "visit @Heyzack.ai — see who's there, everywhere."

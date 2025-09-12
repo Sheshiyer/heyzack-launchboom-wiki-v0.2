@@ -27,13 +27,13 @@ VOICEOVER: "Eleven apps to control your home. Hours spent troubleshooting. A fam
 [Visual: Person naturally talking to HeyZack, seamless home responses]
 
 PERSON: "Hey Zack, we're watching a movie."
-[Visual: Lights automatically dim, TV turns on, temperature adjusts, sound system activates]
+[Visual: Smart PD Power Strip dims connected lamps, Video Door Bell activates privacy mode, Smart Motion Sensor adjusts to movie mode]
 
 PERSON: "Hey Zack, goodnight."
-[Visual: Everything shuts down, security activates, bedroom optimizes for sleep]
+[Visual: Smart PD Power Strip powers down devices, WIFI EU Outlets turn off standby electronics, Battery Solar Camera switches to night mode]
 
 PERSON: "Hey Zack, the kids are home."
-[Visual: Security disarms, lights turn on, kids' music plays]
+[Visual: Video Door Bell recognizes family, Smart Door Windows Sensors confirm entry, Smart Pet Feeder prepares snack time]
 
 VOICEOVER: "One conversation. Your entire smart home, finally orchestrated."
 
