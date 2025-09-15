@@ -10,6 +10,12 @@
   --heyzack-light-gray: #F8F9FA;
   --heyzack-medium-gray: #6B7280;
   --heyzack-dark-gray: #374151;
+  --heyzack-highlight: #243984;
+  
+  /* HeyZack Brand Gradients */
+  --heyzack-gradient-primary: linear-gradient(135deg, #243984 0%, #1D1D1B 100%);
+  --heyzack-gradient-secondary: linear-gradient(135deg, #1D1D1B 0%, #243984 100%);
+  --heyzack-gradient-accent: linear-gradient(90deg, #243984 0%, #1D1D1B 50%, #243984 100%);
   
   /* HeyZack Typography System */
   --heyzack-font-heading: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -292,69 +298,69 @@ button:focus {
 
 /* Custom Badge Variants - HeyZack Brand Colors */
 .sl-badge[data-variant="tip"] {
-  background: rgba(248, 249, 250, 0.8);
-  color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.15);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 
 .sl-badge[data-variant="note"] {
-  background: rgba(248, 249, 250, 0.9);
-  color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.12);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 
 .sl-badge[data-variant="caution"] {
-  background: rgba(248, 249, 250, 0.7);
-  color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.18);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 
 .sl-badge[data-variant="danger"] {
-  background: rgba(248, 249, 250, 0.85);
-  color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.2);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 
 .sl-badge[data-variant="success"] {
-  background: rgba(248, 249, 250, 0.75);
-  color: var(--heyzack-charcoal);
-  border-color: rgba(29, 29, 27, 0.16);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 
 /* Dark Mode Badge Styling - HeyZack Brand Colors */
 [data-theme='dark'] .sl-badge[data-variant="tip"] {
-  background: rgba(29, 29, 27, 0.3);
-  color: var(--heyzack-light-gray);
-  border-color: rgba(248, 249, 250, 0.15);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
 }
 
 [data-theme='dark'] .sl-badge[data-variant="note"] {
-  background: rgba(29, 29, 27, 0.25);
-  color: var(--heyzack-light-gray);
-  border-color: rgba(248, 249, 250, 0.12);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
 }
 
 [data-theme='dark'] .sl-badge[data-variant="caution"] {
-  background: rgba(29, 29, 27, 0.35);
-  color: var(--heyzack-light-gray);
-  border-color: rgba(248, 249, 250, 0.18);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
 }
 
 [data-theme='dark'] .sl-badge[data-variant="danger"] {
-  background: rgba(29, 29, 27, 0.28);
-  color: var(--heyzack-light-gray);
-  border-color: rgba(248, 249, 250, 0.2);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
 }
 
 [data-theme='dark'] .sl-badge[data-variant="success"] {
-  background: rgba(29, 29, 27, 0.32);
-  color: var(--heyzack-light-gray);
-  border-color: rgba(248, 249, 250, 0.16);
+  background: var(--heyzack-charcoal);
+  color: var(--heyzack-white);
+  border-color: var(--heyzack-charcoal);
 }
 
 /* Link Card Enhancements */
@@ -367,13 +373,31 @@ button:focus {
   text-decoration: none;
   display: block;
   font-family: var(--heyzack-font-body);
+  position: relative;
+  overflow: hidden;
+}
+
+.sl-link-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--heyzack-gradient-accent);
+  opacity: 0;
+  transition: opacity 0.2s ease;
 }
 
 .sl-link-card:hover {
-  border-color: var(--heyzack-charcoal);
+  border-color: var(--heyzack-highlight);
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(29, 29, 27, 0.15);
+  box-shadow: 0 8px 25px rgba(36, 57, 132, 0.15);
   text-decoration: none;
+}
+
+.sl-link-card:hover::before {
+  opacity: 1;
 }
 
 .sl-link-card__title {
@@ -721,9 +745,9 @@ button:focus {
 }
 
 .sl-tabs__tab[aria-selected="true"] {
-  color: var(--heyzack-charcoal);
-  border-bottom-color: var(--heyzack-charcoal);
-  background: rgba(29, 29, 27, 0.05);
+  color: var(--heyzack-highlight);
+  border-bottom-color: var(--heyzack-highlight);
+  background: rgba(36, 57, 132, 0.05);
 }
 
 .sl-tabs__panel {
@@ -746,8 +770,8 @@ button:focus {
 }
 
 [data-theme='dark'] .sl-tabs__tab[aria-selected="true"] {
-  color: var(--heyzack-light-gray);
-  border-bottom-color: var(--heyzack-light-gray);
+  color: var(--heyzack-highlight);
+  border-bottom-color: var(--heyzack-highlight);
   background: rgba(248, 249, 250, 0.05);
 }
 
