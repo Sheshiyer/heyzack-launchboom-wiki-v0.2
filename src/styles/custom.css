@@ -507,14 +507,38 @@ button:focus {
 }
 
 /* Navigation Enhancements */
-.sl-nav a:hover,
-.sl-nav a[aria-current="page"] {
+.sl-nav a:hover {
   color: var(--heyzack-charcoal);
 }
 
-[data-theme='dark'] .sl-nav a:hover,
-[data-theme='dark'] .sl-nav a[aria-current="page"] {
+/* Active Navigation Links - Multiple Selectors for Maximum Specificity */
+.sl-nav a[aria-current="page"],
+.sl-sidebar nav a[aria-current="page"],
+.sidebar nav a[aria-current="page"],
+starlight-sidebar nav a[aria-current="page"],
+nav a[aria-current="page"],
+a[aria-current="page"] {
+  color: var(--heyzack-white) !important;
+  background-color: var(--heyzack-charcoal) !important;
+  border-radius: 6px !important;
+}
+
+/* Force override any conflicting styles */
+[data-theme="light"] a[aria-current="page"],
+[data-theme="light"] nav a[aria-current="page"] {
+  color: var(--heyzack-white) !important;
+  background-color: var(--heyzack-charcoal) !important;
+}
+
+[data-theme='dark'] .sl-nav a:hover {
   color: var(--heyzack-white);
+}
+
+[data-theme='dark'] .sl-nav a[aria-current="page"],
+[data-theme='dark'] nav a[aria-current="page"],
+[data-theme='dark'] a[aria-current="page"] {
+  color: var(--heyzack-white) !important;
+  background-color: var(--heyzack-charcoal) !important;
 }
 
 /* Mermaid Diagram Styling */
@@ -788,8 +812,8 @@ button:focus {
 }
 
 .sidebar nav a[aria-current="page"] {
-  color: var(--heyzack-charcoal) !important;
-  background-color: rgba(29, 29, 27, 0.1);
+  color: var(--heyzack-white) !important;
+  background-color: var(--heyzack-charcoal);
   font-weight: 600;
 }
 

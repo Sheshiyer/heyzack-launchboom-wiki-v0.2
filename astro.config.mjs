@@ -13,6 +13,10 @@ export default defineConfig({
 				replacesTitle: true,
 			},
 			description: 'Comprehensive template library for successful crowdfunding campaigns',
+			components: {
+				ThemeProvider: './src/components/ForceDarkTheme.astro',
+				ThemeSelect: './src/components/EmptyComponent.astro',
+			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/heyzack' }
 			],
