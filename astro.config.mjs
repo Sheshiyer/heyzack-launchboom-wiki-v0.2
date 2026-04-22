@@ -9,7 +9,7 @@ export default defineConfig({
 		starlight({
 			title: 'HeyZack LaunchBoom Templates',
 			logo: {
-				src: './logo.png',
+				src: './public/logo-light.svg',
 				replacesTitle: true,
 			},
 			description: 'Comprehensive template library for successful crowdfunding campaigns',
@@ -21,7 +21,7 @@ export default defineConfig({
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/heyzack' }
 			],
 			customCss: [
-				'./src/styles/custom.css',
+				'./src/styles/starlight-custom.css',
 			],
 			sidebar: [
 				{
@@ -63,6 +63,10 @@ export default defineConfig({
 				{
 					label: '📚 Reference Materials',
 					autogenerate: { directory: 'reference-materials' },
+				},
+				{
+					label: '📖 Reference',
+					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
